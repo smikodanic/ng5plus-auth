@@ -1,0 +1,26 @@
+{
+  "name": "ng5plus-auth",
+  "version": "1.0.0",
+  "description": "Angular 5+ authentication service.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smikodanic/ng5plus-auth.git"
+  },
+  "keywords": [
+    "angular",
+    "angular5",
+    "angular6",
+    "authentication",
+    "service"
+  ],
+  "author": "Saša Mikodanić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smikodanic/ng5plus-auth/issues"
+  },
+  "homepage": "https://github.com/smikodanic/ng5plus-auth#readme"
+}
