@@ -139,7 +139,7 @@ export class AuthService {
    * @return string - JWT eyJhbGciOiJIUzI1NiIsInR...
    */
   getJWTtoken(): string {
-    const jwtToken: string = this.cookiesService.get('auth_jwtToken', false);
+    const jwtToken: string = this.cookiesService.get('auth_jwtToken', false) || 'JWT ';
     return jwtToken;
   }
 
