@@ -1,6 +1,6 @@
 {
   "name": "ng5plus-auth",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Angular 5+ authentication service.",
   "main": "index.ts",
   "scripts": {
